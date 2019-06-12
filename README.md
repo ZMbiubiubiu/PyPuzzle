@@ -10,7 +10,7 @@
 [第1个谜题说明](http://www.pythonchallenge.com/pc/def/map.html) 
 
 #### 解答思路:
-
+一个简单的加密算法,加密过程如下:输入一个英文字母,向后移动两位,输入移动后的字母.比如 a->c, z->b
 
 [python代码](./1.py)
 
